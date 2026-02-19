@@ -17,7 +17,7 @@ Usually, we hide this difference behind pre-compiled libraries like NumPy or PyT
 This project is a forensic analysis of the "Tax" we pay for Python's ease of use.
 
 ## 🔬 The "Competency Matrix" (Results)
-*Hardware Context: Benchmarks run locally on an HP Omen laptop (RTX 4050 setup).*
+*Hardware Context: Benchmarks run locally on an HP Omen laptop (RTX 4060 setup).*
 
 | Kernel | Engineering Challenge | Python Latency | C++ (AVX2) | **Speedup** |
 |:-------|:----------------------|:---------------|:-----------|:------------|
