@@ -3,7 +3,7 @@
 
 > "Constraints breed creativity. By banning `import numpy`, I was forced to understand the machine."
 
-![Performance Chart](benchmark_results/performance_chart.png)
+![Performance Chart](https://github.com/Manas10112004/BareMetal-ML/blob/main/performance_chart.png)
 
 ## 📖 The Narrative
 We all know Python is "slow" and C++ is "fast." But **why**? And **by how much**?
